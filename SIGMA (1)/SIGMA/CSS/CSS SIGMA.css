@@ -1,0 +1,24 @@
+* { 
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: #f6f1f1;
+}
+.navbar { 
+    margin-top:10px;
+    background: #19a7ce;
+}
+.navbar-text:hover,
+.navbar-brand:hover,
+.nav-link:hover,
+.nav-link.active:hover{
+    color: #146c94;
+transition: all .4s;
+}
+#texto1 {
+    margin:15px auto;
+}
+#texto2 {
+    margin:15px auto;
+}
